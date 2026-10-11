@@ -1,0 +1,1 @@
+import{Cr as e,Y as t,lt as n,ot as r,rn as i,vt as a}from"./dist-De-ixiPH.js";var o={class:`text-[16px] font-semibold leading-none tracking-tight`},s=a({__name:`SectionTitle`,props:{title:{}},setup(a){return(s,c)=>(i(),n(t,null,[r(`h2`,o,e(a.title),1),c[0]||=r(`div`,{class:`pixel-rule mt-3`},null,-1)],64))}});export{s as t};

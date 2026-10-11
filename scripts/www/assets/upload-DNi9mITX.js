@@ -1,0 +1,1 @@
+import{r as e}from"./client-C5QH5R8l.js";var t={video:(t,n)=>e.upload(`/upload/video`,t,n,`video`).then(e=>e.data),image:(t,n)=>e.upload(`/upload/image`,t,n,`image`).then(e=>e.data)};export{t};

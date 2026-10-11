@@ -1,0 +1,1 @@
+import{jn as e,qt as t,sr as n}from"./dist-De-ixiPH.js";var r=320;function i(i){let a=n(!1),o=n(0),s;return e(i,(e,t)=>{e&&!t&&(o.value+=1,a.value=!0,s!==void 0&&clearTimeout(s),s=setTimeout(()=>{a.value=!1,s=void 0},r))}),t(()=>{s!==void 0&&clearTimeout(s)}),{pulsing:a,pulseKey:o}}export{i as t};

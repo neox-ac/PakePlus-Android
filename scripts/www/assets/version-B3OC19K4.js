@@ -1,0 +1,1 @@
+var e=`2026.10.6.0`,t=`v${e}`;export{t as n,e as t};

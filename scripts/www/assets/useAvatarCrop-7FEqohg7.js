@@ -1,0 +1,1 @@
+import{sr as e}from"./dist-De-ixiPH.js";var t=e(null),n=e(null);function r(){function e(e){t.value=e}function r(){t.value=null}function i(e){n.value=e,t.value=null}function a(){let e=n.value;return n.value=null,e}return{pending:t,open:e,discard:r,complete:i,take:a}}export{r as t};
